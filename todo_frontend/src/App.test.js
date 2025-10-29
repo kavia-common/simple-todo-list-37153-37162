@@ -1,4 +1,4 @@
-import { render, screen } from '@testing-library/react';
+Checkpoint 1 - cg2454fd0aCheckpoint 1 - cg2454fd0aCheckpoint 1 - cg2454fd0aCheckpoint 1 - cg2454fd0aCheckpoint 1 - cg2454fd0aCheckpoint 1 - cg2454fd0aCheckpoint 1 - cg2454fd0aCheckpoint 1 - cg2454fd0aCheckpoint 1 - cg2454fd0aCheckpoint 1 - cg2454fd0aimport { render, screen } from '@testing-library/react';
 import App from './App';
 
 test('renders retro header', () => {
